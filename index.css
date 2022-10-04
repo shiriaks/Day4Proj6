@@ -1,0 +1,29 @@
+body{
+    background-size: 1600px 1200px;
+    background-repeat: no-repeat;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHMurF-hmUE78AbpvQ52JqEMaW0lBg3k717aVcfUrtwB9FTrrCgJobmK-B_Zo7yrCzZuE&usqp=CAU);
+    
+}
+.box,.btn{
+    height: 28px;
+    width: 500px;
+}
+#b1{
+    background-color: blue;
+    cursor: pointer;
+    font-weight: bolder;
+}
+#container1{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 5px;
+    margin: 5px;
+    border :5px solid rgb(52, 159, 152);
+    border-radius: 3%;
+}
+.rbox{
+    height: 20px;
+    width: 250px;
+    padding: 15px;
+    margin: 10px;
+}
